@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="150mm"
+   viewBox="0 0 150 150"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="circuit_symbols.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2.0881594"
+     inkscape:cx="369.94302"
+     inkscape:cy="273.92545"
+     inkscape:window-width="2304"
+     inkscape:window-height="1422"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <symbol
+       id="nmos4t">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 84.999998,54 v 1 H 87 v 4 h -2.000002 v 1.000001"
+         id="path1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 88,55.999998 V 58"
+         id="path2" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 88,56.999999 h 1.000001"
+         id="path3" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 84.999998,57.999999 1.000001,-1 -1.000001,-0.999998"
+         id="path4" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 85.999999,55.999998 V 58"
+         id="path5" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 85.999999,56.999999 H 84"
+         id="path6" />
+    </symbol>
+    <symbol
+       id="pmos4t">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 84.999998,54 v 1 H 87 v 4 h -2.000002 v 1.000001"
+         id="path1-5" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 88,55.999998 V 58"
+         id="path2-6" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 88,56.999999 h 1.000001"
+         id="path3-2" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 85.470821,56.000001 -1.000001,1 1.000001,0.999998"
+         id="path4-9" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 85.999999,55.999998 V 58"
+         id="path5-1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 85.999997,57 H 83.999998"
+         id="path6-2" />
+    </symbol>
+    <symbol
+       id="nmos3t">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 84.999998,64.000001 v 0.999998 H 87 v 4 h -2.000002 v 1"
+         id="path7" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 88,65.999999 v 2.000002"
+         id="path8" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 85.999998,67.999998 -1,1.000001 1,0.999998"
+         id="path9" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 88,67 h 1.000001"
+         id="path10" />
+    </symbol>
+    <symbol
+       id="pmos3t">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 84.999998,64.000001 v 0.999998 H 87 v 4 h -2.000002 v 1"
+         id="path7-0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 88,65.999999 v 2.000002"
+         id="path8-6" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 85.999998,66.000001 1,-1.000001 -1,-0.999998"
+         id="path9-2" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 88,67 h 1.000001"
+         id="path10-6" />
+    </symbol>
+    <symbol
+       id="cap">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 84.999998,75 v 1.000001"
+         id="path11" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 84,76.000001 h 1.999999"
+         id="path12" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 85.999999,76.999998 H 84"
+         id="path13" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 84.999998,76.999996 v 1.000003"
+         id="path14" />
+    </symbol>
+    <symbol
+       id="res">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 94.918397,80 0.506801,-1.081598 1.0136,2.163194 1.0136,-2.163194 1.0136,2.163194 1.013601,-2.163194 1.013601,2.163194 L 101,80"
+         id="path15" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 101,80 h 1"
+         id="path16" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 93.999999,80 0.918398,-2e-6"
+         id="path17" />
+    </symbol>
+    <symbol
+       id="ind">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path25"
+         sodipodi:type="arc"
+         sodipodi:cx="-81"
+         sodipodi:cy="-85"
+         sodipodi:rx="1"
+         sodipodi:ry="1"
+         sodipodi:start="0"
+         sodipodi:end="3.1415927"
+         sodipodi:arc-type="arc"
+         d="m -80,-85 a 1,1 0 0 1 -0.5,0.866025 1,1 0 0 1 -1,0 A 1,1 0 0 1 -82,-85"
+         sodipodi:open="true"
+         transform="scale(-1)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path25-2"
+         sodipodi:type="arc"
+         sodipodi:cx="-83"
+         sodipodi:cy="-85"
+         sodipodi:rx="1"
+         sodipodi:ry="1"
+         sodipodi:start="0"
+         sodipodi:end="3.1415927"
+         sodipodi:arc-type="arc"
+         d="m -82,-85 a 1,1 0 0 1 -0.5,0.866025 1,1 0 0 1 -1,0 A 1,1 0 0 1 -84,-85"
+         sodipodi:open="true"
+         transform="scale(-1)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path25-5"
+         sodipodi:type="arc"
+         sodipodi:cx="-85"
+         sodipodi:cy="-85"
+         sodipodi:rx="1"
+         sodipodi:ry="1"
+         sodipodi:start="0"
+         sodipodi:end="3.1415927"
+         sodipodi:arc-type="arc"
+         d="m -84,-85 a 1,1 0 0 1 -0.5,0.866025 1,1 0 0 1 -1,0 A 1,1 0 0 1 -86,-85"
+         sodipodi:open="true"
+         transform="scale(-1)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 80,84.999998 H 79"
+         id="path26" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 85.999999,84.999998 H 87"
+         id="path27" />
+    </symbol>
+    <symbol
+       id="vdd">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 94.999999,84 h 2.000002"
+         id="path35" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 96,84 v 1.999999"
+         id="path36" />
+    </symbol>
+    <symbol
+       id="gnd">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 100,84.999998 h 2 l -1,1.000001 z"
+         id="path37" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 101,84.999998 V 84"
+         id="path38" />
+    </symbol>
+    <symbol
+       id="opamp">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 100,94.999999 V 105 l 10,-5 z"
+         id="path28" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 101,98.000001 h 2"
+         id="path29" />
+      <g
+         id="g31"
+         transform="translate(7.9999998)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 93.000001,102 h 1.999998"
+           id="path30" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 93.999999,101 v 2"
+           id="path31" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 100,97.999999 -0.999999,2e-6"
+         id="path32"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 100,102 H 98.999999"
+         id="path33" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 110,100 h 1"
+         id="path34" />
+    </symbol>
+    <symbol
+       id="diffamp">
+      <g
+         id="g34-3"
+         transform="translate(0.99999976,-3.0000003)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 99.000001,106 v 14 L 111,113 Z"
+           id="path28-1"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 100,110 h 2"
+           id="path29-9" />
+        <g
+           id="g31-4"
+           transform="translate(7.000001,14.000001)">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+             d="m 93.000001,102 h 1.999998"
+             id="path30-7" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+             d="m 93.999999,101 v 2"
+             id="path31-8" />
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 104,114.47083 h 2"
+           id="path29-9-6" />
+        <g
+           id="g31-4-3"
+           transform="translate(11.000002,9.4708343)">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+             d="m 93.000001,102 h 1.999998"
+             id="path30-7-2" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+             d="m 93.999999,101 v 2"
+             id="path31-8-0" />
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="M 99,110 H 98.000001"
+           id="path32-4"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="M 99.000002,116 H 98.000001"
+           id="path33-5" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 106,110 h 2"
+           id="path39" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           d="m 106,116 h 2"
+           id="path40" />
+      </g>
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <use
+       xlink:href="#g6"
+       id="use40" />
+    <use
+       xlink:href="#g6"
+       id="use41" />
+    <use
+       xlink:href="#g6"
+       id="use42" />
+    <use
+       xlink:href="#g6-3"
+       id="use1"
+       transform="translate(10.000003)" />
+    <use
+       xlink:href="#g10"
+       id="use2" />
+    <use
+       xlink:href="#g10-6"
+       id="use3"
+       transform="translate(10.000003)" />
+    <use
+       xlink:href="#g14"
+       id="use4" />
+    <use
+       xlink:href="#g25"
+       id="use5"
+       transform="translate(1.7171658e-6,-4.9999994)" />
+    <use
+       xlink:href="#g27"
+       id="use6" />
+    <use
+       xlink:href="#g36"
+       id="use7" />
+    <use
+       xlink:href="#g38"
+       id="use8" />
+    <use
+       xlink:href="#g34"
+       id="use9"
+       transform="translate(-19,-3.0000003)" />
+    <use
+       xlink:href="#g40"
+       id="use10"
+       transform="translate(-1,-11.999999)" />
+  </g>
+</svg>
