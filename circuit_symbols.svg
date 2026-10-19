@@ -25,9 +25,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="5.9062067"
-     inkscape:cx="292.23495"
-     inkscape:cy="47.915695"
+     inkscape:zoom="8.3526376"
+     inkscape:cx="273.92545"
+     inkscape:cy="57.706323"
      inkscape:window-width="2560"
      inkscape:window-height="1326"
      inkscape:window-x="0"
@@ -432,6 +432,28 @@
          style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
          d="m 64.999999,20 v 1"
          id="path50" />
+    </symbol>
+    <symbol
+       id="IOpin">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 64.999999,13 v 2 H 67 L 68.000001,14 67,13 Z"
+         id="path18" />
+    </symbol>
+    <symbol
+       id="ICpad">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 64.999999,13 v 2 H 67 v -2 z"
+         id="path19" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="M 64.999999,13 67,15"
+         id="path20" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 67,13 -2.000001,2"
+         id="path51" />
     </symbol>
   </defs>
   <g
