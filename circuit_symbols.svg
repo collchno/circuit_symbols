@@ -25,11 +25,11 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2.0881594"
-     inkscape:cx="369.94302"
-     inkscape:cy="273.92545"
-     inkscape:window-width="2304"
-     inkscape:window-height="1422"
+     inkscape:zoom="5.9062067"
+     inkscape:cx="292.23495"
+     inkscape:cy="47.915695"
+     inkscape:window-width="2560"
+     inkscape:window-height="1326"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -349,6 +349,90 @@
            id="path40" />
       </g>
     </symbol>
+    <symbol
+       id="Iref">
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path21"
+         cx="82"
+         cy="32.000004"
+         r="2" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path21-3"
+         cx="82"
+         cy="34"
+         r="2" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 84.999998,31.000001 v 4 L 85.999999,34"
+         id="path22" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 81.999999,35.999999 V 37"
+         id="path23" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 81.999999,30 V 29"
+         id="path24" />
+    </symbol>
+    <symbol
+       id="Isource">
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path41"
+         cx="70"
+         cy="22.5"
+         r="2.5" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 69.999999,20 V 19"
+         id="path42" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 69.999999,25 v 1"
+         id="path43" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 70.000001,21 v 3"
+         id="path44" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 69,23 1.000001,1 1.000001,-1"
+         id="path45" />
+    </symbol>
+    <symbol
+       id="Vsource">
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path46"
+         cx="65"
+         cy="17.5"
+         r="2.5" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 65,16.058334 V 17"
+         id="path47"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 64.529169,16.529167 h 0.941665"
+         id="path48"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 64.529168,18.470833 h 0.941665"
+         id="path48-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 64.999999,15 V 14"
+         id="path49" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 64.999999,20 v 1"
+         id="path50" />
+    </symbol>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -398,5 +482,8 @@
        xlink:href="#g40"
        id="use10"
        transform="translate(-1,-11.999999)" />
+    <use
+       xlink:href="#I_Source"
+       id="use45" />
   </g>
 </svg>
