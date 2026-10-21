@@ -1,7 +1,7 @@
 # circuit_symbols
-A repo for inkscape/svg circuit and related symbols
+A repo for inkscape/svg circuit and related symbols. This repo also contains some convenient svg-related scripts and tools.
 
-# Usage Instructions
+# Symbols Library Usage Instructions
 
 ## Installation
 - Clone the repo to wherever you clone your repos, e.g.:
@@ -17,4 +17,9 @@ A repo for inkscape/svg circuit and related symbols
 - Go to the object properties and name your symbol in the `ID` field. Hit the `Set` button
 - Go to the `Symbols` panel, set the drop down to Current document, select your new group, and hit the `+` symbol.
 - Your new group should now appear in the symbols panel. Save the document and exit.
- 
+
+
+# SVG Scripts and Tools
+
+## svg_darkmode
+This script takes an svg file as input and flips the colours so they look better on a dark background. It's vibe coded and barely tested, so please report bugs so they can be fixed. 
