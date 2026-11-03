@@ -26,11 +26,11 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="8.3526372"
-     inkscape:cx="345.63934"
-     inkscape:cy="149.2343"
+     inkscape:zoom="5.9062064"
+     inkscape:cx="277.50469"
+     inkscape:cy="247.87485"
      inkscape:window-width="2560"
-     inkscape:window-height="1403"
+     inkscape:window-height="1326"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1611,6 +1611,170 @@
          d="M 89.999999,38 H 89.000001"
          id="path74" />
     </symbol>
+    <symbol
+       id="and">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 85.000001,30 -2e-6,5.999999 h 5.000003 c 0,0 2.999998,2e-6 2.999998,-2.999999 0,-3 -3.000001,-3 -3.000001,-3 z"
+         id="path3-0"
+         sodipodi:nodetypes="ccczcc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="M 84.999999,31 H 84.000001"
+         id="path4-1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="M 84.999999,35 H 84.000001"
+         id="path5-7" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 92.999998,33 h 1.000001"
+         id="path6-8" />
+    </symbol>
+    <symbol
+       id="or">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 105,55 c 0,0 2,1 2,3 0,2 -2,2.999999 -2,2.999999 L 105.5,61 h 0.5 c 4,0 7,-3 7,-3 0,0 -3,-3 -7,-3 z"
+         id="path75"
+         sodipodi:nodetypes="czcccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 104,56.999999 h 2.82268"
+         id="path76" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 104,59 2.82268,-5e-6"
+         id="path78" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 113,58 h 1"
+         id="path79" />
+    </symbol>
+    <symbol
+       id="xor">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 107,65.000002 c 0,0 2,1 2,3 0,2 -2,2.999999 -2,2.999999 l 0.5,10e-7 h 0.5 c 4,0 7,-3 7,-3 0,0 -3,-3 -7,-3 z"
+         id="path91"
+         sodipodi:nodetypes="czcccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 105.41249,65.000002 c 0,0 2,1 2,3 0,2 -2,2.999999 -2,2.999999"
+         id="path91-9"
+         sodipodi:nodetypes="czc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 104,67.000001 h 3"
+         id="path92"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 104,69.000001 3,-5e-6"
+         id="path95"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 115,68.000002 h 1"
+         id="path98" />
+    </symbol>
+    <symbol
+       id="nand">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 71.000001,44 -2e-6,5.999999 h 5.000003 c 0,0 2.999998,2e-6 2.999998,-2.999999 0,-3 -3.000001,-3 -3.000001,-3 z"
+         id="path104"
+         sodipodi:nodetypes="ccczcc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="M 70.999999,45 H 70.000001"
+         id="path107" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="M 70.999999,49 H 70.000001"
+         id="path108" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 80,47 h 1.000001"
+         id="path112" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path129"
+         cx="79.5"
+         cy="47"
+         r="0.5" />
+    </symbol>
+    <symbol
+       id="nor">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 66,63.000001 c 0,0 2,1 2,3 C 68,68.000001 66,69 66,69 l 0.5,10e-7 H 67 c 4,0 7,-3 7,-3 0,0 -3,-3 -7,-3 z"
+         id="path137"
+         sodipodi:nodetypes="czcccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 65,65 h 2.82268"
+         id="path139" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 65,67.000001 2.82268,-5e-6"
+         id="path140" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 75.000001,66.000001 h 1"
+         id="path144" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path158"
+         cx="74.5"
+         cy="66"
+         r="0.5" />
+    </symbol>
+    <symbol
+       id="xnor">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 68,78.000002 c 0,0 2,1 2,3 0,2 -2,2.999999 -2,2.999999 l 0.5,10e-7 H 69 c 4,0 7,-3 7,-3 0,0 -3,-3 -7,-3 z"
+         id="path159"
+         sodipodi:nodetypes="czcccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 66.41249,78.000002 c 0,0 2,1 2,3 0,2 -2,2.999999 -2,2.999999"
+         id="path160"
+         sodipodi:nodetypes="czc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 65,80.000001 h 3"
+         id="path161"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 65,82.000001 3,-5e-6"
+         id="path162"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+         d="m 77.000001,81.000001 h 1"
+         id="path163" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path164"
+         cx="76.5"
+         cy="81"
+         r="0.5" />
+    </symbol>
+    <symbol
+       id="reg">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 34,54 v 7 h 1.999999 v -7 z"
+         id="path46-0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 34.000001,57 0.999998,1 -0.999998,1.000001"
+         id="path47-2" />
+    </symbol>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -1665,8 +1829,5 @@
        id="use45" />
     <g
        id="use64" />
-    <use
-       xlink:href="#inv"
-       id="use91" />
   </g>
 </svg>
