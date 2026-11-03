@@ -26,11 +26,11 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="5.9062064"
-     inkscape:cx="284.36189"
-     inkscape:cy="149.67306"
+     inkscape:zoom="8.3526372"
+     inkscape:cx="345.63934"
+     inkscape:cy="149.2343"
      inkscape:window-width="2560"
-     inkscape:window-height="1326"
+     inkscape:window-height="1403"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1589,6 +1589,28 @@
         </g>
       </g>
     </symbol>
+    <symbol
+       id="inv">
+      <path
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 89.999999,35.000001 90.000001,41 96.5,38 Z"
+         id="path64"
+         sodipodi:nodetypes="cccc" />
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path71"
+         cx="97"
+         cy="38"
+         r="0.5" />
+      <path
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 97.5,38 h 1.000001"
+         id="path73" />
+      <path
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 89.999999,38 H 89.000001"
+         id="path74" />
+    </symbol>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -1643,5 +1665,8 @@
        id="use45" />
     <g
        id="use64" />
+    <use
+       xlink:href="#inv"
+       id="use91" />
   </g>
 </svg>
